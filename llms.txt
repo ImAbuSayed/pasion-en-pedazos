@@ -1,4 +1,4 @@
-# Pasión en pedazos
+# Pasión en pedazos, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Pasión en pedazos |
+| **Title** | Pasión en pedazos, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-pedazos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión en pedazos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-pedazos/) |
+| **Get License** | [Official Music Licensing for Pasión en pedazos, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-pedazos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see you shining in the neon of the city lights
+> You got that rhythm in your body that can take me high
+> I want to feel you moving closer till the morning breaks
+> We're causing fire in the shadows, let's make no mistakes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d9a6d1319e698f140a43b6dcfaff17060be16ccee5db0846a1eac3bbcb5559de` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

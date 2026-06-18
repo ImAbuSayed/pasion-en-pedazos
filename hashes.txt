@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión en pedazos, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Pasión en pedazos, Vol. 2** (pasion-en-pedazos-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T22:14:58.035321 | `v1` | `d9a6d1319e698f140a43b6dcfaff17060be16ccee5db0846a1eac3bbcb5559de` | `a5f462c466d00cd4472d725ab9563ca68c8e5772bb68c50f5edbde03ce4da90e` | `2026-06-18_pasion-en-pedazos-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
